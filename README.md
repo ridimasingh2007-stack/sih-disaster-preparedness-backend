@@ -38,7 +38,7 @@ The backend was designed to be lightweight, scalable, and easily integrated with
 This repository contains **only the backend** part of the project.
 
 - **Backend development & API design:** Ridhima  
-- **Frontend application:** [BlackphantomZX](https://github.com/BlackphatomZX)
+- **Frontend application:** [BlackphantomZX](https://github.com/BlackphantomZX)
 - 
 ⚠️Note: An early frontend prototype created during the initial phase of the hackathon exists in this repository.
  The final frontend was implemented separately by the frontend developer and is maintained in a different repository.
