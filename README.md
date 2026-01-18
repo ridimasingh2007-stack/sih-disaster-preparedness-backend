@@ -1,18 +1,72 @@
-# prototype_sih
-# Disaster Preparedness Backend
+Disaster Preparedness Backend (Smart India Hackathon)
 
-Backend for the Disaster Preparedness and Response Education System designed for students of school and college.
+This repository contains the **backend implementation** of a Disaster Preparedness and Response Education System developed as part of the **Smart India Hackathon (SIH)**.
 
-Built with Flask and Python, this API provides emergency messages, interactive quizzes, voice recognition support, and progress tracking to help educate and prepare young learners for disaster situations.
+The backend supports a student-focused application designed to enhance awareness, learning, and preparedness for disaster situations.
 
-## Features
+---
+📌 Project Overview
 
-- Disaster-specific emergency message retrieval
-- Multi-level quiz system with scoring and progress tracking
-- Text-to-Speech integration using pyttsx3
-- Placeholder for voice recognition integration (OpenAI Whisper planned)
-- Designed for seamless integration with student-facing frontend (Kivy)
+The system provides APIs to deliver:
+- Disaster-specific emergency information
+- Interactive quizzes for learning and assessment
+- Basic user progress tracking
+
+The backend was designed to be lightweight, scalable, and easily integrated with a frontend application.
+
+---
+
+🛠 Tech Stack
+
+- **Python**
+- **Flask**
+- **JSON-based data handling**
+
+---
+
+  ✨ Features
+
+- Emergency message retrieval based on disaster type
+- Multi-level quiz system with scoring
+- Basic progress tracking
+- API-based design for frontend integration
+
+---
+
+## 🤝 Team Contribution
+
+This repository contains **only the backend** part of the project.
+
+- **Backend development & API design:** Ridhima  
+- **Frontend application:** [BlackphantomZX](https://github.com/BlackphatomZX)
+- 
+⚠️Note: An early frontend prototype created during the initial phase of the hackathon exists in this repository.
+ The final frontend was implemented separately by the frontend developer and is maintained in a different repository.
 
 
+---
 
+🚀 Deployment
+
+The backend was deployed during the hackathon to demonstrate end-to-end functionality and successful frontend integration.
+
+---
+
+
+🎯 Purpose of This Repository
+
+- Showcase backend development skills
+- Demonstrate API design in a team-based hackathon project
+- Maintain a transparent and honest record of individual contribution
+
+---
+
+⚠️ Note
+
+This project was developed within a hackathon environment.  
+Some components may be prototypes or simplified due to time constraints.
+
+---
+
+✨ Built with a focus on collaboration, learning, and real-world impact.
 
