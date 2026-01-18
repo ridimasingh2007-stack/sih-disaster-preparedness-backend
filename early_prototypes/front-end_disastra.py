@@ -1,3 +1,8 @@
+# Early frontend prototype
+# Created during the initial phase of the hackathon
+# This is NOT the final frontend implementation
+# Final frontend was developed separately by the frontend team member
+
 import requests
 from kivy.app import App
 from kivy.uix.screenmanager import ScreenManager, Screen
@@ -288,3 +293,4 @@ class DisasterApp(App):
 
 if __name__ == "__main__":
     DisasterApp().run()
+
