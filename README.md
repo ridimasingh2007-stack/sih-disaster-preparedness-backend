@@ -1,7 +1,7 @@
 Disaster Preparedness Backend (Smart India Hackathon)
 
 This repository contains the **backend implementation** of a Disaster Preparedness and Response Education System developed as part of the **Smart India Hackathon (SIH)**.
-
+   
 The backend supports a student-focused application designed to enhance awareness, learning, and preparedness for disaster situations.
 
 ---
